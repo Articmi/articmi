@@ -1,1 +1,1 @@
-[![Badge](https://fgurgxunzyxh.runkit.sh)](https://git.io/gradientbadge)
+[![Badge](https://fgurgxunzyxh.runkit.sh)](t.me/articmi2003)
