@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=articmi" alt="articmi" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/https://twitter.com/articmi01" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/articmi01?logo=twitter&style=for-the-badge" alt="https://twitter.com/articmi01" /></a> </p>
+<p align="left"> <a href="https://twitter.com/articmi01" target="blank"><img src="https://img.shields.io/twitter/follow/articmi01?logo=twitter&style=for-the-badge" alt="https://twitter.com/articmi01" /></a> </p>
 
 - 🔭 Actualmente estoy trabajando en [Art_bloguer](https://github.com/Articmi/Art_Bloger)
 
