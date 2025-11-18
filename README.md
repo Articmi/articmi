@@ -1,31 +1,65 @@
-<h1 align="center">Hola👋, me llamo Alvaro Noel Ocampo Zeledon</h1>
-<h3 align="center">"Dev junior apasionado por el desarrollo web y entusiasta de diversas tecnologías. Navegando por el emocionante mundo del código, busco aprender, crecer y contribuir en cada línea escrita. Comprometido con la excelencia y la mejora continua, mi código cuenta la historia de mi viaje en constante evolución. ¡Únete a mí en esta travesía de descubrimiento y creación en el universo del desarrollo!</h3>
+<h1 align="center">Alvaro Noel Ocampo Zeledón 👋</h1>
+<p align="center">Frontend Developer | PHP · JS · HTML · CSS · MySQL · Laravel (en aprendizaje)</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=articmi&label=Profile%20views&color=0e75b6&style=flat" alt="articmi" /> </p>
-
-<p align="left"> <a href="https://twitter.com/articmi01" target="blank"><img src="https://img.shields.io/twitter/follow/articmi01?logo=twitter&style=for-the-badge" alt="https://twitter.com/articmi01" /></a> </p>
-
-- 🔭 Actualmente estoy trabajando en [Art_bloguer](https://github.com/Articmi/Art_Bloger)
-
-- 🌱 Actualmente estoy aprendiendo **Laravel**
-
-- 👨‍💻 Todos mis proyectos están disponibles en [https://github.com/Articmi](https://github.com/Articmi)
-
-- 💬 Preguntame sobre **php, js, html, css y mysql**
-
-- 📫 Como llegar a mi **alvaronoelocampozeledon2003@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/https://twitter.com/articmi01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/articmi01" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/in/articmi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/articmi" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/articmi01/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/articmi01/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/articmi01/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/articmi01/" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=articmi&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=articmi&show_icons=true&locale=en&layout=compact" alt="articmi" /></p>
+## Sobre mí
+Dev junior enfocado en desarrollo web. Me interesa construir proyectos reales, aprender tecnologías backend mínimas (PHP / MySQL / Laravel) y mejorar continuamente la calidad del código. Busco contribuir en proyectos donde pueda demostrar resultados prácticos y escalar mis habilidades.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=articmi&show_icons=true&locale=en" alt="articmi" /></p>
+---
+
+## Qué hago ahora
+- 🔭 Trabajando en: [Art_Bloger](https://github.com/Articmi/Art_Bloger)  
+- 🌱 Aprendiendo: Laravel  
+- 💬 Puedes preguntarme sobre: PHP, JavaScript, HTML, CSS, MySQL  
+- 📫 Email: [alvaronoelocampozeledon2003@gmail.com](mailto:alvaronoelocampozeledon2003@gmail.com)
+
+---
+
+## Proyectos destacados
+> Pinnea en tu perfil 3 repos que muestren diferentes habilidades: un proyecto fullstack pequeño, un clon o práctica y tu blog/proyecto en progreso.
+
+- **Art_Bloger** — Blog con sistema de posts (PHP / MySQL).  
+  `README` del repo: agregar instalación, screenshots y cómo ejecutar local.
+- **Proyecto Front (ejemplo)** — SPA o página responsiva con HTML/CSS/JS (o Bootstrap).  
+- **Mini-API PHP** — Endpoints CRUD con MySQL + ejemplo de consumo desde JS.
+
+*(Incluye en cada repo: 1) README claro, 2) captura de pantalla, 3) pasos para ejecutar, 4) LICENSE MIT)*
+
+---
+
+## Skills / Herramientas
+**Lenguajes:** PHP · JavaScript · HTML · CSS · SQL  
+**Frameworks / Tools:** Bootstrap · Node.js (básico) · MySQL · Git · Laravel (aprendiendo)  
+**Otras:** GitHub Pages, Postman, VSCode
+
+---
+
+## Cómo presentarlos en el README del perfil
+- Sección corta “Sobre mí” + enlace al portfolio o a un repositorio principal.
+- Mostrar 3 proyectos con 2–3 bullets cada uno (tecnologías, objetivo, demo).
+- Incluir badges sólo útiles: estado CI (si lo añades), lenguaje principal y visitas.
+
+---
+
+## Conéctate
+[[LinkedIn](https://www.linkedin.com/in/articmi) · [Instagram](https://www.instagram.com/articmi01) · [GitHub](https://github.com/Articmi)
+
+---
+
+## Estadísticas
+<p>
+  <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=articmi&layout=compact&langs_count=6" />
+  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=articmi&show_icons=true" />
+</p>
+
+---
+
+## Pequeño manifiesto
+Trabajo por resultados: entregar proyectos que funcionen, bien documentados y fáciles de mantener. Prioridad: simplicidad funcional, pruebas básicas y despliegues accesibles.
+
+---
