@@ -13,12 +13,12 @@ Dev junior enfocado en desarrollo web. Me interesa construir proyectos reales, a
 ---
 
 ## Qué hago ahora
-- 🔭 Trabajando en: [Art_Bloger](https://github.com/Articmi/Art_Bloger)  
+- 🔭 Trabajando en: Art_WorkOrder
 - 🌱 Aprendiendo: Laravel  
 - 💬 Puedes preguntarme sobre: PHP, JavaScript, HTML, CSS, MySQL  
 - 📫 Email: [alvaronoelocampozeledon2003@gmail.com](mailto:alvaronoelocampozeledon2003@gmail.com)
 
-## Skills / Herramientas
+## Skills
 **Lenguajes:** PHP · JavaScript · HTML · CSS · SQL  
 **Frameworks / Tools:** Bootstrap · Node.js (básico) · MySQL · Git · Laravel (aprendiendo)  
 **Otras:** GitHub Pages, Postman, VSCode
